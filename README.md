@@ -3,7 +3,7 @@ My First Repository
 
 
 # Friends (Highly Reccomend)
-![alt text](http://url/to/img.png)
+<img src="https://th.bing.com/th/id/R.cc36d67527206789261ee4bec81d5c4d?rik=wJg%2fMLSwGd2szw&riu=http%3a%2f%2fimages1.resources.foxtel.com.au%2fstore2%2fmount1%2f16%2f3%2f85td8.jpg&ehk=xuAy0HNlZLfyrhpFUB0f6BO%2fpsgumA3FvlViaAT6Y6M%3d&risl=&pid=ImgRaw&r=0" alt="">
 
 
 <ul>
