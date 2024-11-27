@@ -25,6 +25,8 @@ Friends explores themes like friendship, love, loyalty, and the pressures of gro
 # Popularity and Legacy
 Friends became a massive cultural phenomenon, praised for its ensemble cast, humor, and the chemistry between the main characters. It has remained a fan favorite even after its original run, thanks to its availability on streaming platforms and its widespread syndication. 
 
+<img src="https://th.bing.com/th/id/R.f0f1f1c52e66bb17b64e6ce0cee47024?rik=qzbkXpVrANDswA&riu=http%3a%2f%2fstatic.advice-and-resources.cbcortex.com%2fmedia%2fattachments%2f000%2f000%2f431%2foriginal%2f3482_3ab5.gif%3f1412629393&ehk=qG2FskU54xOQJtqmANIHGrhnoHIf8AkK%2f0uqC7U%2bZI8%3d&risl=&pid=ImgRaw&r=0" alt="">
+
 # Favorite Elements
 The Chemistry Between the Main Characters
 Iconic Catchphrases
@@ -32,7 +34,9 @@ Humor and Sarcasm
 
 # Fun Fact!!
 The Friends theme song, "I'll Be There for You" by The Rembrandts, was so popular that it hit #1 on the Billboard Hot 100 chart!
-
+<audio controls>
+  <source src="https://on.soundcloud.com/FUnTqZmUgE8UQiVx7" type="">
+</audio>
 
 # Premise
 The show centers around the everyday lives, personal relationships, and comedic antics of the six main characters as they support each other through life's challenges. 
