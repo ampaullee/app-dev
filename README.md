@@ -3,7 +3,7 @@ My First Repository
 
 
 # Friends (Highly Reccomend)
-<img src="FriendsTV.jpeg" alt="Girl in a jacket">
+<img src="FriendsTV.jpeg">
 
 <ul>
   <li>Genre: sitcom (short for "situational comedy")</li>
