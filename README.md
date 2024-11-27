@@ -1,16 +1,15 @@
 # app-dev
 My First Repository
 
-# Details (Highly Reccomended)
+# Friends (Highly Reccomend)
 <ul>
   <li>Genre: sitcom (short for "situational comedy")</li>
   <li>Release Date: September 22, 1994</li>
   </ul>
 Friends explores themes like friendship, love, loyalty, and the pressures of growing up. It often tackles romantic relationships, job struggles, and other adult milestones in a lighthearted, comedic way.
 
-# Friends (Best TV Series)
+# Casters (6 Peoples)
 <ul>
-Castings (6 Peoples)
 <li>Rachel Green (played by Jennifer Aniston)</li>
 <li>Ross Geller (played by David Schwimmer)</li>
 <li>Monica Geller (played by Courteney Cox)</li>
@@ -19,9 +18,10 @@ Castings (6 Peoples)
 <li>Phoebe Buffay (played by Lisa Kudrow)</li>
 </ul>
 
+# Popularity and Legacy
+Friends became a massive cultural phenomenon, praised for its ensemble cast, humor, and the chemistry between the main characters. It has remained a fan favorite even after its original run, thanks to its availability on streaming platforms and its widespread syndication. 
 
 # Favorite Elements
-
 The Chemistry Between the Main Characters
 Iconic Catchphrases
 Humor and Sarcasm
