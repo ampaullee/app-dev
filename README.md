@@ -29,5 +29,9 @@ Humor and Sarcasm
 # Fun Fact!!
 The Friends theme song, "I'll Be There for You" by The Rembrandts, was so popular that it hit #1 on the Billboard Hot 100 chart!
 
+
+# Premise
+The show centers around the everyday lives, personal relationships, and comedic antics of the six main characters as they support each other through life's challenges. 
+
 # Rate
 ⭐⭐⭐⭐⭐ (5/5)
