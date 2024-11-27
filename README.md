@@ -18,7 +18,10 @@ Castings (6 Peoples)
 <li>Joey Tribbiani (played by Matt LeBlanc)</li>
 <li>Phoebe Buffay (played by Lisa Kudrow)</li>
 </ul>
+
+
 # Favorite Elements
+
 The Chemistry Between the Main Characters
 Iconic Catchphrases
 Humor and Sarcasm
