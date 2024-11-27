@@ -3,7 +3,7 @@ My First Repository
 
 
 # Friends (Highly Reccomend)
-<img src="FriendsTV.jpeg">
+<img src="C:\Users\COMLAB101\Desktop\FriendsTV.jpeg">
 
 <ul>
   <li>Genre: sitcom (short for "situational comedy")</li>
