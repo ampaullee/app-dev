@@ -3,7 +3,7 @@ My First Repository
 
 # Details
 <ul>
-  <li>Genre: sitcom (short for "situational comedy") /li>
+  <li>Genre: sitcom (short for "situational comedy")</li>
   <li>Release Date: September 22, 1994</li>
   </ul>
 Friends explores themes like friendship, love, loyalty, and the pressures of growing up. It often tackles romantic relationships, job struggles, and other adult milestones in a lighthearted, comedic way.
