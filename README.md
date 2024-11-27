@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-#Details
+# Details
 -Genre: sitcom (short for "situational comedy")
 
 Friends explores themes like friendship, love, loyalty, and the pressures of growing up. It often tackles romantic relationships, job struggles, and other adult milestones in a lighthearted, comedic way.
