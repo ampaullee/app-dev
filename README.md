@@ -1,7 +1,10 @@
 # app-dev
 My First Repository
 
+
 # Friends (Highly Reccomend)
+<img src="FriendsTV.jpeg" alt="Girl in a jacket">
+
 <ul>
   <li>Genre: sitcom (short for "situational comedy")</li>
   <li>Release Date: September 22, 1994</li>
